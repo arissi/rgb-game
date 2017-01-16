@@ -8,6 +8,6 @@ You are given six random colors and three numerical values for Red, Green, and B
 
 Wanted to build an app with some moving pieces, html, styling, DOM manipulation, and event handling. It's also nice tool to practice rgb colors since the rgb color system is a little unintuitive at first.
 
-Hosted at CodePen(http://s.codepen.io/arissi/debug/MbMbvg/wQrPoPvJyDeM)
+Hosted at [CodePen](http://codepen.io/arissi/full/MbMbvg/)
 
 
